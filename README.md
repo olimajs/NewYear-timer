@@ -1,4 +1,4 @@
-Realice una web app de cuenta regresiva hasta fin de año (01/01/2023) ❄️❄️❄️
+Realice una web app de "cuenta regresiva para fin de año" (01/01/2023) ❄️❄️❄️
 
 Hecha con: JavaScript, Html5, CSS3.
 
