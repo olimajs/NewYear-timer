@@ -18,6 +18,6 @@ Fact: The total number of seconds in a day is 86400 seconds, which make up the m
 
 - Thus, 60 x 60 = 3600 seconds in an hour. To know how many seconds a day has, you have to multiply the seconds of an hour by the number of hours. Thus 3600 x 24 = 86400 seconds which is 24 hours. (use this data for the variables and to execute the functions)
 
-Translated with www.DeepL.com/Translator (free version)
+
 
 
