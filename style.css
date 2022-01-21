@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(http://www.artinnaturephotography.com/images/xl/fitzroy-patagonia-winter-chalten-20140601_2270.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+    min-height: 100vh; /*sirve para despues añadir el contador en el centro*/
+    margin: 0;
+}
+
+h1{
+    font-weight: normal; /*deje en normal el groso del "new year*/
+    font-size: 4rem;    
+    margin-top: 5rem; /*separacion del new year eve con el tiempo/reloj*/
+}
+.countdown-container {
+    display: flex; 
+    flex-wrap: wrap; /*me sirve para ajustarlo y que se mantenga responsive*/
+    align-items: center;  /*esto igual con lo de abajo y arriba*/
+    justify-content: center;
+}
+
+.big-text {
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+.countdown-el {
+    text-align: center;
+}
+.countdown-el span{
+    font-size: 1.3rem;
+}
