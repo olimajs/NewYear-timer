@@ -1,6 +1,6 @@
 Realice una web app de "cuenta regresiva para fin de año" (01/01/2023) ❄️❄️❄️
 
-Hecha con: JavaScript, Html5, CSS3.
+Hecha con: Vanilla JavaScript, Html5, CSS3.
 
 Dato: El total de los segundos que tiene un día es de 86400 segundos, que conforman los minutos y las horas.
 
@@ -10,7 +10,7 @@ Dato: El total de los segundos que tiene un día es de 86400 segundos, que confo
 - vivo: olimajs.github.io/countdown-timer/
 ----------------------------------------------------------------------------
 
-CountDown new year! made it with JavaScript,html and Css (010123) ❄️❄️❄️
+CountDown new year! made it with Vanilla JavaScript,html and Css (010123) ❄️❄️❄️
 
 Fact: The total number of seconds in a day is 86400 seconds, which make up the minutes and hours.
 
